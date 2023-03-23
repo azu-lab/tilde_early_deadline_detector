@@ -13,11 +13,13 @@ early_deadline_detector can be built in [TILDE](https://github.com/tier4/TILDE/t
 - TILDE enabled application
 - The Messages should have the `header.stamp` field.
 
-## Code to be changed
+## The default path for early deadline detection
 
 The default path is shown below.
 
 ![default_path](./path3.svg)
+
+## Code to be changed
 
 If you want to change the path for early deadline detection, here is a set of the parts that should be changed in tilde_early_deadline_detector.cpp.
 
