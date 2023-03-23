@@ -15,6 +15,16 @@ early_deadline_detector can be built with TILDE package.
 
 ## Code to be changed
 
+If you want to change the path for early deadline detection, here is a set of the parts that should be changed in tilde_early_deadline_detector.cpp.
+
+- line 66~
+
+All pairs of topic names included in the path and accumulated execution time must be registered.
+
+- line 233~
+
+- line 374~
+
 ## Build
 
 early_deadline_detector must be built in [TILDE/src](https://github.com/tier4/TILDE/tree/master/src).
