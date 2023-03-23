@@ -37,9 +37,6 @@ $ ros2 run tilde_early_deadline_detector tilde_early_deadline_detector_node_exe 
     --ros-args --params-file src/tilde_early_deadline_detector/autoware_sensors.yaml
 ```
 
-By default, it prints subscribed topics, then runs silently.
-The deadline notification is not implemented yet.
-
 Here is a set of parameters.
 
 | category          | name                     | about                                                                                          |
