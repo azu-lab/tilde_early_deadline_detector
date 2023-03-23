@@ -17,7 +17,7 @@ early_deadline_detector can be built in [TILDE](https://github.com/tier4/TILDE/t
 
 The default path is shown below.
 
-![default_path](./path3.svg)
+![default_path](./default_path.svg)
 
 ## Code to be changed
 
