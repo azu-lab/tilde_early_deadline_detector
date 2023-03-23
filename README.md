@@ -16,7 +16,7 @@ early_deadline_detector can be built in [TILDE](https://github.com/tier4/TILDE/t
 ## Code to be changed
 
 The default path is displayed below.
-![default_path](.path3.svg)
+![default_path](./path3.svg)
 
 If you want to change the path for early deadline detection, here is a set of the parts that should be changed in tilde_early_deadline_detector.cpp.
 
