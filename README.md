@@ -4,7 +4,7 @@
 
 early_deadline_detector is for early deadline detection on the specified path.
 
-early_deadline_detector can be built with TILDE package.
+early_deadline_detector can be built in [TILDE](https://github.com/tier4/TILDE/tree/master/doc) package.
 
 ## Requirement
 
